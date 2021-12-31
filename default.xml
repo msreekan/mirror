@@ -25,41 +25,6 @@
   <project name="mirror" />
   <project name="local_manifests" />
 
-  <!-- EPGQ -->
-  <project name="build" />
-  <project name="bo" />
-  <project name="armemu" />
-  <project name="cm_armemu" />
-  <project name="u-boot" />
-
-  <!-- ASP -->
-  <project name="x86emu" />
-  <project name="x86vbox" />
-  <project name="device_androVM" />
-  <project name="genymotion-kernel" />
-  <project name="goldfish" />
-  <project name="fbtest" />
-  <project name="platform_bootable_newinstaller" />
-  <project name="device_generic_goldfish" />
-  <project name="vboxguest-linux-modules" />
-
-  <!-- cuckoo for android -->
-  <project name="cuckoo" />
-  <project name="cuckoo-droid" />
-  <project name="droidbot" />
-  <project name="droidmon" />
-  <project name="python-for-android" />
-  <project name="cuckooautoinstall" />
-  <project name="Widgets" />
-  <project name="Superuser" />
-
-  <!-- Tools -->
-  <project name="k-9" />
-  <project name="keepassdroid" />
-  <project name="distribution" />
-  <project name="filemanager" />
-  <project name="apg" />
-
   <!-- CyanogenMod -->
   <project name="android_bootable_recovery" remote="cm" />
   <project name="android_external_busybox" remote="cm" />
