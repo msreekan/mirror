@@ -14,9 +14,9 @@
            fetch="https://github.com/omnirom" />
 
   <remote  name="github"
-           fetch=".." />
+           fetch="https://github.com/msreekan/" />
   <default revision="master"
-	  remote="https://github.com/msreekan/"
+	  remote="github"
            sync-j="4" />
 
   <!-- configuration of github repositories v1.0 -->
